@@ -11,7 +11,7 @@
 ### 🤖 Tecnologias & Linguagens
 
 <div>
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,cs,ts,git,github,mysql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,c,ts,git,github,mysql&theme=dark" />
 </div><br>
 
 ---
