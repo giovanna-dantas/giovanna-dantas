@@ -20,6 +20,7 @@
 <div>
 <img src="https://skillicons.dev/icons?i=react,nodejs,socketio&theme=dark" />
 </div>
+
 * Estruturação e qualidade de dados  
 * Construção de consultas SQL  
 * Fundamentos de Python para análise 
