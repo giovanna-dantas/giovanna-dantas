@@ -2,8 +2,8 @@
 
 ### Sobre mim
 
-* Olá, eu sou a Giovanna Dantas, estudante de Sistemas de Informação no IFSP <br>
-* Tenho interesse em transformar **dados em decisões estratégicas**, conectando tecnologia, análise e impacto real no negócio.  <br>
+* Olá, eu sou a Giovanna Dantas, estudante de Sistemas de Informação no IFSP, com formação técnica em Informática para Internet<br>
+* Tenho interesse em transformar **dados em decisões estratégicas**, conectando tecnologia e análise ao negócio.  <br>
 * Atualmente, desenvolvo minhas habilidades em **SQL, modelagem de dados, análise exploratória e programação**, buscando evoluir cada vez mais na área de dados. <br>
 
 ---
