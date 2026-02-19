@@ -13,6 +13,7 @@
 <div>
     <img src="https://skillicons.dev/icons?i=vscode,html,css,js,cs,ts,git,github,mysql&theme=dark" />
 </div><br>
+
 ---
 ### 💻 Estudando Atualmente
 
@@ -21,7 +22,8 @@
 </div>
 * Estruturação e qualidade de dados  
 * Construção de consultas SQL  
-* Fundamentos de Python para análise  
+* Fundamentos de Python para análise 
+
 ---
 
 ### 💻 Contato
