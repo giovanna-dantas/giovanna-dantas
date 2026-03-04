@@ -18,7 +18,7 @@
 ### Estudando Atualmente
 
 <div>
-<img src="https://skillicons.dev/icons?i=react,nodejs,socketio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,socketio&theme=dark" />
 </div>
 
 * Estruturação e qualidade de dados  
