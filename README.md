@@ -11,7 +11,7 @@
 ### Tecnologias & Linguagens
 
 <div>
-    <img src="https://skillicons.dev/icons?i=html,python,git,github,sql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,python,git,github,mysql&theme=dark" />
 </div><br>
 
 ---
