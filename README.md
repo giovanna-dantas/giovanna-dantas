@@ -11,14 +11,14 @@
 ### Tecnologias & Linguagens
 
 <div>
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,c,ts,git,github,mysql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,python,git,github,mysql&theme=dark" />
 </div><br>
 
 ---
 ### Estudando Atualmente
 
 <div>
-<img src="https://skillicons.dev/icons?i=java,python,socketio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,socketio&theme=dark" />
 </div>
 
 * Estruturação e qualidade de dados  
