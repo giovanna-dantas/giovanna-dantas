@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11152F,45:343064,75:8B7CF6,100:E7A8F9&height=230&section=header&text=GIOVANNA%20DANTAS&fontSize=42&fontColor=F4F0FF&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20%7C%20Data%20%7C%20Technology&descAlignY=60&descSize=17&descColor=E7A8F9"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11152F,50:343064,100:E7A8F9&height=220&section=header&text=GIOVANNA%20DANTAS&fontSize=42&fontColor=F4F0FF&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20%7C%20Data%20%7C%20Technology&descAlignY=58&descSize=17&descColor=9EDCFF"/>
 
 <br>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=E7A8F9&center=true&vCenter=true&width=750&lines=Transformando+dados+em+insights;Explorando+o+universo+de+Data+Analytics;Construindo+solu%C3%A7%C3%B5es+com+tecnologia;Aprendendo%2C+criando+e+evoluindo." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=E7A8F9&center=true&vCenter=true&width=750&lines=Transformando+dados+em+insights;Explorando+o+universo+de+Data+Analytics;Construindo+solu%C3%A7%C3%B5es+com+tecnologia;Sempre+aprendendo%2C+sempre+evoluindo." alt="Typing Animation"/>
 </a>
 
 <br><br>
@@ -51,7 +51,7 @@ Sou estudante de **Sistemas de Informação no IFSP**, com formação técnica e
 
 Tenho interesse em transformar **dados em decisões estratégicas**, conectando tecnologia, análise e negócio para compreender problemas e construir soluções mais eficientes.
 
-Atualmente, estou aprofundando meus conhecimentos em **SQL, Python, modelagem de dados, análise exploratória e visualização**, construindo minha trajetória na área de **Dados e Analytics**.
+Atualmente, estou aprofundando meus conhecimentos em **SQL, Python, modelagem de dados, análise exploratória e visualização**, buscando construir uma base sólida para atuar na área de **Dados e Analytics**.
 
 ---
 
@@ -102,19 +102,17 @@ Atualmente, estou aprofundando meus conhecimentos em **SQL, Python, modelagem de
 ```text
 ╭─────────────────────────────────────────────────────────────╮
 │                                                             │
-│                 ✦  LEARNING PROTOCOL  ✦                    │
+│                  ✦ LEARNING PROTOCOL ✦                     │
 │                                                             │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
 │  ◈  SQL & DATABASES              ████████████████░░░░       │
-│  ◈  PYTHON FOR DATA               ██████████████░░░░░░       │
-│  ◈  DATA MODELING                 ████████████░░░░░░░░       │
-│  ◈  EXPLORATORY ANALYSIS          ███████████░░░░░░░░░       │
-│  ◈  DATA VISUALIZATION            ██████████░░░░░░░░░░       │
+│  ◈  PYTHON FOR DATA              ██████████████░░░░░░       │
+│  ◈  DATA MODELING                ████████████░░░░░░░░       │
+│  ◈  EXPLORATORY ANALYSIS         ███████████░░░░░░░░░       │
+│  ◈  DATA VISUALIZATION           ██████████░░░░░░░░░░       │
 │                                                             │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│              STATUS :: LEARNING_MODE = ON                   │
+│  STATUS: LEARNING_MODE = ON                                 │
 │                                                             │
 ╰─────────────────────────────────────────────────────────────╯
 ```
@@ -139,11 +137,9 @@ Atualmente, estou aprofundando meus conhecimentos em **SQL, Python, modelagem de
 <tr>
 <td width="100%">
 
-### `✦ PREDICTION // MACHINE LEARNING`
+### `PREDICTION // MACHINE LEARNING`
 
 Projeto desenvolvido para explorar **Machine Learning e previsão de dados**, aplicando conceitos de programação e análise para transformar dados em previsões.
-
-A experiência também representa meu interesse em utilizar **Python e dados para investigar problemas e construir soluções baseadas em informação**.
 
 <br>
 
@@ -161,88 +157,7 @@ A experiência também representa meu interesse em utilizar **Python e dados par
 
 ---
 
-## `06 // GITHUB ANALYTICS`
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=giovanna-dantas&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=E7A8F9&text_color=F4F0FF&icon_color=9EDCFF"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanna-dantas&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=E7A8F9&text_color=F4F0FF"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=giovanna-dantas&theme=transparent&hide_border=true&ring=E7A8F9&fire=8B7CF6&currStreakLabel=E7A8F9&sideLabels=F4F0FF&dates=F4F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-
-</div>
-
----
-
-## `07 // CONTRIBUTION ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=giovanna-dantas&bg_color=11152F&color=E7A8F9&line=8B7CF6&point=9EDCFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## `08 // ACHIEVEMENTS`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=giovanna-dantas&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7"/>
-
-</div>
-
----
-
-## `09 // CONTRIBUTION MATRIX`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/giovanna-dantas/giovanna-dantas/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
----
-
-## `10 // CURRENT OBJECTIVES`
-
-<div align="center">
-
-```text
-╭─────────────────────────────────────────────────────────────╮
-│                                                             │
-│               ✦  GIOVANNA.EXE  ✦                           │
-│                                                             │
-│  $ ./career --current-mission                              │
-│                                                             │
-│  [01]  DATA ANALYTICS          ████████████████████         │
-│  [02]  SQL & DATABASES         █████████████████░░░         │
-│  [03]  PYTHON                  ███████████████░░░░░         │
-│  [04]  POWER BI                █████████████░░░░░░░         │
-│  [05]  DATA STORYTELLING       ███████████░░░░░░░░         │
-│  [06]  ENGLISH                 ██████████░░░░░░░░░         │
-│                                                             │
-│  > Building projects...                                    │
-│  > Developing analytical thinking...                        │
-│  > Connecting technology with business...                   │
-│                                                             │
-│  STATUS :: IN PROGRESS  ◌                                  │
-│                                                             │
-╰─────────────────────────────────────────────────────────────╯
-```
-
-</div>
-
----
-
-## `11 // CONNECT`
+## `06 // CONNECT`
 
 <div align="center">
 
@@ -267,17 +182,15 @@ A experiência também representa meu interesse em utilizar **Python e dados par
 ```text
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
-│   ✦  DATA • TECHNOLOGY • CURIOSITY  ✦                       │
-│                                                              │
-│   "Turning data into possibilities,                         │
-│    one project at a time."                                  │
+│   "Data is not just information.                            │
+│    It's a way to understand possibilities."                 │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E7A8F9,35:8B7CF6,70:343064,100:11152F&height=130&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E7A8F9,50:8B7CF6,100:11152F&height=120&section=footer"/>
 
 <sub>Designed & built by <strong>Giovanna Dantas</strong> • 2026</sub>
 
