@@ -4,25 +4,12 @@
 
 <br>
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║  SYSTEM BOOT // GIOVANNA.DANTAS                             ║
-║──────────────────────────────────────────────────────────────║
-║  STATUS      : ONLINE                                        ║
-║  ROLE        : INFORMATION SYSTEMS STUDENT                   ║
-║  FOCUS       : DATA ANALYTICS                                ║
-║  ENVIRONMENT : PYTHON • SQL • GIT • DATABASES                ║
-║  MISSION     : TURN DATA INTO DECISIONS                      ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=6ED2B6&center=true&vCenter=true&width=750&lines=Transformando+dados+em+insights;Explorando+o+universo+de+Data+Analytics;Construindo+solu%C3%A7%C3%B5es+com+tecnologia;Sempre+aprendendo%2C+sempre+evoluindo." alt="Typing Animation"/>
 </a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=giovanna-dantas&style=for-the-badge&color=6ED2B6&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -73,7 +60,7 @@ Atualmente, estou aprofundando meus conhecimentos em **SQL, Python, modelagem de
 
 ### `DATA`
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark"/>
 
 <br><br>
 
@@ -95,14 +82,13 @@ Atualmente, estou aprofundando meus conhecimentos em **SQL, Python, modelagem de
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,eclipse,linux,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=vscode,eclipse&theme=dark"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Power%20BI-020114?style=for-the-badge&logo=powerbi&logoColor=6ED2B6"/>
 <img src="https://img.shields.io/badge/Excel-020114?style=for-the-badge&logo=microsoftexcel&logoColor=6ED2B6"/>
 <img src="https://img.shields.io/badge/SQL-020114?style=for-the-badge&logo=postgresql&logoColor=6ED2B6"/>
-<img src="https://img.shields.io/badge/TOTVS-020114?style=for-the-badge&logoColor=6ED2B6"/>
 
 </div>
 
@@ -168,57 +154,7 @@ Projeto desenvolvido para explorar **Machine Learning e previsão de dados**, ap
 
 ---
 
-## `06 // GITHUB ANALYTICS`
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=giovanna-dantas&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=6ED2B6&text_color=FFFFFF&icon_color=6ED2B6"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanna-dantas&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=6ED2B6&text_color=FFFFFF"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=giovanna-dantas&theme=transparent&hide_border=true&ring=6ED2B6&fire=6ED2B6&currStreakLabel=6ED2B6&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-
-</div>
-
----
-
-## `07 // CONTRIBUTION ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=giovanna-dantas&bg_color=020114&color=6ED2B6&line=6ED2B6&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## `08 // ACHIEVEMENTS`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=giovanna-dantas&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
-
-</div>
-
----
-
-## `09 // CONTRIBUTION MATRIX`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/giovanna-dantas/giovanna-dantas/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
----
-
-## `10 // CURRENT OBJECTIVES`
+## `06 // CURRENT OBJECTIVES`
 
 <div align="center">
 
@@ -244,7 +180,7 @@ $ ./giovanna --current-mission
 
 ---
 
-## `11 // CONNECT`
+## `07 // CONNECT`
 
 <div align="center">
 
