@@ -122,7 +122,6 @@ Atualmente, estou aprofundando meus conhecimentos em **SQL, Python, modelagem de
 <div align="center">
 
 <a href="https://github.com/giovanna-dantas/PrevisaoMachineLearning">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=giovanna-dantas&repo=PrevisaoMachineLearning&theme=transparent&title_color=E7A8F9&text_color=F4F0FF&icon_color=9EDCFF&border_color=8B7CF6"/>
 </a>
 
 </div>
