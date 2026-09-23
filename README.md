@@ -1,34 +1,284 @@
-<h1 align="center">Giovanna Dantas</h1>
+<div align="center">
 
-### Sobre mim
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020114,50:101B35,100:6ED2B6&height=220&section=header&text=GIOVANNA%20DANTAS&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20%7C%20Data%20%7C%20Technology&descAlignY=58&descSize=17&descColor=6ED2B6"/>
 
-* Olá, sou estudante de Sistemas de Informação no IFSP, com formação técnica em Informática para Internet<br>
-* Tenho interesse em transformar **dados em decisões estratégicas**, conectando tecnologia e análise ao negócio.  <br>
-* Atualmente, desenvolvo minhas habilidades em **SQL, modelagem de dados, análise exploratória e programação**, buscando evoluir cada vez mais na área de dados. <br>
+<br>
 
----
+```text
+╔══════════════════════════════════════════════════════════════╗
+║  SYSTEM BOOT // GIOVANNA.DANTAS                             ║
+║──────────────────────────────────────────────────────────────║
+║  STATUS      : ONLINE                                        ║
+║  ROLE        : INFORMATION SYSTEMS STUDENT                   ║
+║  FOCUS       : DATA ANALYTICS                                ║
+║  ENVIRONMENT : PYTHON • SQL • GIT • DATABASES                ║
+║  MISSION     : TURN DATA INTO DECISIONS                      ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-### Tecnologias & Linguagens
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=6ED2B6&center=true&vCenter=true&width=750&lines=Transformando+dados+em+insights;Explorando+o+universo+de+Data+Analytics;Construindo+solu%C3%A7%C3%B5es+com+tecnologia;Sempre+aprendendo%2C+sempre+evoluindo." alt="Typing Animation"/>
+</a>
 
-<div>
-    <img src="https://skillicons.dev/icons?i=html,python,git,github,mysql&theme=dark" />
-</div><br>
+<br>
 
----
-### Estudando Atualmente
+<img src="https://komarev.com/ghpvc/?username=giovanna-dantas&style=for-the-badge&color=6ED2B6&label=PROFILE+VIEWS"/>
 
-<div>
-<img src="https://skillicons.dev/icons?i=python,socketio&theme=dark" />
 </div>
 
-* Estruturação e qualidade de dados  
-* Construção de consultas SQL  
-* Fundamentos de Python para análise 
+---
+
+## `01 // SOBRE MIM`
+
+```yaml
+name: Giovanna Dantas
+location: São Paulo, Brazil
+
+education:
+  degree: Sistemas de Informação
+  institution: IFSP
+  background: Informática para Internet
+
+focus:
+  - Data Analytics
+  - Data Analysis
+  - Business Intelligence
+  - Technology & Business
+
+currently_learning:
+  - SQL
+  - Python
+  - Data Modeling
+  - Exploratory Data Analysis
+  - Data Visualization
+
+mindset:
+  - Curiosity
+  - Continuous Learning
+  - Problem Solving
+  - Data Driven Thinking
+```
+
+Sou estudante de **Sistemas de Informação no IFSP**, com formação técnica em **Informática para Internet**.
+
+Tenho interesse em transformar **dados em decisões estratégicas**, conectando tecnologia, análise e negócio para compreender problemas e construir soluções mais eficientes.
+
+Atualmente, estou aprofundando meus conhecimentos em **SQL, Python, modelagem de dados, análise exploratória e visualização**, buscando construir uma base sólida para atuar na área de **Dados e Analytics**.
 
 ---
 
-### Informações para Contato
+## `02 // TECH STACK`
 
-[![E-mail](https://img.shields.io/badge/-email-020114?style=for-the-badge&logo=microsoft-outlook&logoColor=6ED2B6&color:FFF)](mailto:desouzagiovannadantas@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&logo=linkedin&logoColor=6ED2B6&color:FFF)](https://www.linkedin.com/in/giovanna-dantass/)
+<div align="center">
 
+### `DATA`
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql&theme=dark"/>
+
+<br><br>
+
+### `DEVELOPMENT`
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,java,php,react,nextjs&theme=dark"/>
+
+<br><br>
+
+### `VERSION CONTROL`
+
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
+
+</div>
+
+---
+
+## `03 // TOOLS & ENVIRONMENT`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,linux,postman&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Power%20BI-020114?style=for-the-badge&logo=powerbi&logoColor=6ED2B6"/>
+<img src="https://img.shields.io/badge/Excel-020114?style=for-the-badge&logo=microsoftexcel&logoColor=6ED2B6"/>
+<img src="https://img.shields.io/badge/SQL-020114?style=for-the-badge&logo=postgresql&logoColor=6ED2B6"/>
+<img src="https://img.shields.io/badge/TOTVS-020114?style=for-the-badge&logoColor=6ED2B6"/>
+
+</div>
+
+---
+
+## `04 // CURRENTLY LEARNING`
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                    LEARNING_PROTOCOL                        │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  [████████████████░░░░]  SQL & DATABASES                    │
+│  [██████████████░░░░░░]  PYTHON FOR DATA                    │
+│  [████████████░░░░░░░░]  DATA MODELING                      │
+│  [███████████░░░░░░░░░]  EXPLORATORY ANALYSIS               │
+│  [██████████░░░░░░░░░░]  DATA VISUALIZATION                 │
+│                                                             │
+│  STATUS: LEARNING_MODE = ON                                 │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## `05 // FEATURED PROJECT`
+
+<div align="center">
+
+<a href="https://github.com/giovanna-dantas/PrevisaoMachineLearning">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=giovanna-dantas&repo=PrevisaoMachineLearning&theme=transparent&title_color=6ED2B6&text_color=FFFFFF&icon_color=6ED2B6&border_color=6ED2B6"/>
+</a>
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="100%">
+
+### `PREDICTION // MACHINE LEARNING`
+
+Projeto desenvolvido para explorar **Machine Learning e previsão de dados**, aplicando conceitos de programação e análise para transformar dados em previsões.
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/giovanna-dantas/PrevisaoMachineLearning">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-6ED2B6?style=for-the-badge&logo=github&logoColor=020114"/>
+</a>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `06 // GITHUB ANALYTICS`
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=giovanna-dantas&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=6ED2B6&text_color=FFFFFF&icon_color=6ED2B6"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanna-dantas&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=6ED2B6&text_color=FFFFFF"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=giovanna-dantas&theme=transparent&hide_border=true&ring=6ED2B6&fire=6ED2B6&currStreakLabel=6ED2B6&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+
+</div>
+
+---
+
+## `07 // CONTRIBUTION ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=giovanna-dantas&bg_color=020114&color=6ED2B6&line=6ED2B6&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## `08 // ACHIEVEMENTS`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=giovanna-dantas&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+
+</div>
+
+---
+
+## `09 // CONTRIBUTION MATRIX`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/giovanna-dantas/giovanna-dantas/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+## `10 // CURRENT OBJECTIVES`
+
+<div align="center">
+
+```text
+$ ./giovanna --current-mission
+
+> Initializing career protocol...
+
+[01] ████████████████████  DATA ANALYTICS
+[02] █████████████████░░░  SQL & DATABASES
+[03] ███████████████░░░░░  PYTHON
+[04] █████████████░░░░░░░  POWER BI
+[05] ████████████░░░░░░░░  DATA STORYTELLING
+[06] ██████████░░░░░░░░░░  ENGLISH
+
+> Building projects...
+> Developing analytical thinking...
+> Connecting technology with business...
+> STATUS: IN PROGRESS █
+```
+
+</div>
+
+---
+
+## `11 // CONNECT`
+
+<div align="center">
+
+<a href="mailto:desouzagiovannadantas@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-020114?style=for-the-badge&logo=gmail&logoColor=6ED2B6"/>
+</a>
+
+<a href="https://www.linkedin.com/in/giovanna-dantass/">
+<img src="https://img.shields.io/badge/LINKEDIN-020114?style=for-the-badge&logo=linkedin&logoColor=6ED2B6"/>
+</a>
+
+<a href="https://github.com/giovanna-dantas">
+<img src="https://img.shields.io/badge/GITHUB-020114?style=for-the-badge&logo=github&logoColor=6ED2B6"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   "Data is not just information.                            │
+│    It's a way to understand possibilities."                 │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6ED2B6,50:101B35,100:020114&height=120&section=footer"/>
+
+<sub>Designed & built by <strong>Giovanna Dantas</strong> • 2026</sub>
+
+</div>
