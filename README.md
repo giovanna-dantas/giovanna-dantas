@@ -8,8 +8,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=E7A8F9&center=true&vCenter=true&width=750&lines=Transformando+dados+em+insights;Explorando+o+universo+de+Data+Analytics;Construindo+solu%C3%A7%C3%B5es+com+tecnologia;Sempre+aprendendo%2C+sempre+evoluindo." alt="Typing Animation"/>
 </a>
 
-<br><br>
-
 </div>
 
 ---
