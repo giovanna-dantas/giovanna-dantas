@@ -10,8 +10,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=giovanna-dantas&style=for-the-badge&color=8B7CF6&label=PROFILE+VIEWS"/>
-
 </div>
 
 ---
