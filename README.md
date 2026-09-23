@@ -154,33 +154,8 @@ Projeto desenvolvido para explorar **Machine Learning e previsão de dados**, ap
 
 ---
 
-## `06 // CURRENT OBJECTIVES`
 
-<div align="center">
-
-```text
-$ ./giovanna --current-mission
-
-> Initializing career protocol...
-
-[01] ████████████████████  DATA ANALYTICS
-[02] █████████████████░░░  SQL & DATABASES
-[03] ███████████████░░░░░  PYTHON
-[04] █████████████░░░░░░░  POWER BI
-[05] ████████████░░░░░░░░  DATA STORYTELLING
-[06] ██████████░░░░░░░░░░  ENGLISH
-
-> Building projects...
-> Developing analytical thinking...
-> Connecting technology with business...
-> STATUS: IN PROGRESS █
-```
-
-</div>
-
----
-
-## `07 // CONNECT`
+## `06 // CONNECT`
 
 <div align="center">
 
